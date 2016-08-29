@@ -1,7 +1,9 @@
 # strophe.message-carbons.js
 
 strophe.message-carbons.js is a plugin to provide simplified support for Message Carbons
-( [XEP-0280]( http://xmpp.org/extensions/xep-0280.html ) ).
+( [XEP-0280]( http://xmpp.org/extensions/xep-0280.html ) ).  
+
+XEP Version supported by this plugin is 0.10.1.
 
 ## Usage
 
